@@ -2,10 +2,10 @@
 Mahcine learning with MATLAB 
 
 # Dataset Overview
-## 5,136 patient records
-## Goal: Predict stroke risk, binary classification
+5,136 patient records
+Goal: Predict stroke risk, binary classification
 ## 10 Features and 1 Target 
-##
+
 Numerical: Age, BMI, Average glucose level
 Categorical, Nominal: gender, work_type, smoking_status, ever_married, residence_type
 Cateogircal, Ordinal: Hypertension, heart_disease
